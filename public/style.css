@@ -1,0 +1,28 @@
+.RowPodcast{
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+}
+
+.imagem{
+  width: 225px;
+  height: 225px;
+  border-radius: 99%;
+  margin: 19px;
+}
+
+.alinhabotao{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: -20px;
+}
+
+.font{
+  font-family: 'Alkalami', serif;
+}
+
+.font1{
+  font-family: 'Alkalami', serif;
+  color: #70757a;
+}
