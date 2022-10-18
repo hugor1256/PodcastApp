@@ -1,3 +1,13 @@
+.body{
+background-color: rgb(185, 209, 201);
+}
+
+
+.header{
+  display: flex;
+  justify-content: center;
+}
+
 .RowPodcast{
   flex-direction: row;
   display: flex;
