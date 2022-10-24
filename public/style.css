@@ -20,6 +20,9 @@ background-color: rgb(185, 209, 201);
   border-radius: 99%;
   margin: 19px;
 }
+.imagem:hover{
+  border: 3px solid black;
+}
 
 .alinhabotao{
   display: flex;
